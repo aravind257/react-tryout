@@ -1,0 +1,25 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-firsttry"
+  },
+  "keywords": [
+    "react;intro"
+  ],
+  "author": "aravind257",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "dependencies": {
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0"
+  }
+}
